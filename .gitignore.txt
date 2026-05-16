@@ -1,0 +1,12 @@
+# Datasets
+*.csv
+*.zip
+*.gz
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
